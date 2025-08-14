@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://pbl-guidebook.vercel.app/sitemap.xml
